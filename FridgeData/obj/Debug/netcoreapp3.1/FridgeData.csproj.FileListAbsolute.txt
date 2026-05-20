@@ -1,0 +1,671 @@
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+E:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+D:\Praca\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+E:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+F:\Praca\10.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\backupy\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.ResolveComReference.cache
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+E:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.ResolveComReference.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+D:\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.ResolveComReference.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.WindowsForms.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLite-net.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ckz\Desktop\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.exe
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.deps.json
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.json
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.runtimeconfig.dev.json
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.WindowsForms.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\OxyPlot.Wpf.Shared.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLite-net.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.cache
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData_MarkupCompile.lref
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.g.resources
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.AssemblyInfo.cs
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.csproj.CopyComplete
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.dll
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.pdb
+C:\Users\USER\Desktop\backupy\finalna wersja\19.04.2023\Malys-Aplikacja\FridgeData\FridgeData\obj\Debug\netcoreapp3.1\FridgeData.genruntimeconfig.cache
